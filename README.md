@@ -1,4 +1,4 @@
-# DecisionTree_WaveForecasts
+#An Application of a Machine Learning Algorithm to Determine and Describe Error Patterns within Wave Model Output
 
 This is the live demo to accompany the manuscript: 
 Ellenson, A., Pei, Y., Wilson, G., Özkan-Haller, H. T., & Fern, X. (2020). An application of a machine learning algorithm to determine and describe error patterns within wave model output. Coastal Engineering, 157, 103595.. 
